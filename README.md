@@ -40,7 +40,7 @@ to Eclipse.
 to `<PLUGIN_DIR>/java/libs`.
 4. Include the `google-play-services_lib` as an Android library to the plugin project.
 
-The project should build without errors on Eclipse.
+The project should now build on Eclipse.
 
 ### Unity
 
