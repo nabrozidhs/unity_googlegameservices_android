@@ -15,8 +15,10 @@ Just import the file `googlegameservices.unitypackage` in your Unity project.
 ### Project setup
 
 Open your app's manifest file and add the following tag as a child of the `<application>` element:
-`<meta-data android:name="com.google.android.gms.version"
-           android:value="@integer/google_play_services_version" />`
+```xml
+<meta-data android:name="com.google.android.gms.version"
+           android:value="@integer/google_play_services_version" />
+```
 This is specified on the [Android documentation](https://developer.android.com/google/play-services/setup.html) as well.
 
 ### Examples
