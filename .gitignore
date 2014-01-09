@@ -1,3 +1,6 @@
+# Project specific
+google-play-services_lib/
+
 # Unity related
 *.csproj
 *.meta
@@ -6,6 +9,7 @@
 Library/
 ProjectSettings/
 obj/
+Temp/
 
 # Eclipse related
 bin/
