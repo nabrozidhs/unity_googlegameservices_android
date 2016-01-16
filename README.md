@@ -1,5 +1,6 @@
-# Unity Google Game Services for Android
+# Unity Google Game Services for Android (deprecated)
 
+Google released a plugin for Google Play Game Services, I would recommend switching to that ([playgameservices/play-games-plugin-for-unity](https://github.com/playgameservices/play-games-plugin-for-unity)).
 
 ## Overview
 
